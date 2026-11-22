@@ -1,0 +1,16 @@
+EL PI DE NÀQUERA — ACTUALIZACIÓN PREMIUM
+
+CAMBIOS:
+- Acceso al admin: 5 clics rápidos en el logotipo superior (sin recarga entre clics).
+- En páginas interiores, 1 clic en el logotipo sigue llevando al inicio con una breve espera.
+- Sustituidas las 3 imágenes locales de arroz, tapas y comedor por nuevas versiones procesadas de las fotos facilitadas.
+- Corregida orientación de la foto de tapas; ampliación LANCZOS, nitidez, contraste y color.
+- Renombrados los archivos y cambiado el parámetro de versión CSS/JS para evitar que Vercel y el navegador muestren los anteriores.
+- Carta con fondo verde bosque, crema cálido, dorado, tarjetas y navegación mejorada.
+- No se han inventado precios.
+
+IMPORTANTE: las fotografías de origen son de 155x155 píxeles. La ampliación mejora su presentación pero no crea detalle real. No se han usado fotos de otro restaurante.
+
+SEGURIDAD: los cinco clics solo ocultan el acceso, NO protegen el administrador. Es imprescindible una autenticación segura del lado del servidor antes de utilizarlo con datos reales. Supabase necesita configurarse para las reservas en nube.
+
+GITHUB / VERCEL: sube el contenido de esta carpeta dentro de el-pi-naquera-web en tu repositorio, manteniendo index.html dentro de esa carpeta. Tras el commit, espera el despliegue Ready y actualiza con Ctrl+F5.

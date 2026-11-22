@@ -1,0 +1,1 @@
+CORRECCIÓN: la portada y las tres tarjetas de inicio ya usan imágenes locales de assets/images; antes apuntaban a miniaturas externas. Se agregó versión al CSS para reducir problemas de caché. Las imágenes provienen de miniaturas 155x155 aportadas por el usuario, por lo que la nitidez real es limitada. No se han utilizado imágenes generadas para representar como reales el local.
