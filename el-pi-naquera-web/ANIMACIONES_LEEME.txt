@@ -1,9 +1,0 @@
-El Pi de Nàquera — refinamiento de animaciones
-
-- Entrada escalonada y sutil de titulares, texto y botones en portada.
-- Aparición al desplazarse de secciones, galería y carta, con movimiento reducido.
-- Cabecera reactiva al scroll, barra de progreso y enlaces con subrayado animado.
-- Transiciones discretas en botones, fotografías, tarjetas y menú.
-- Compatibilidad móvil y con la preferencia de accesibilidad «reducir movimiento».
-- Se conserva la versión anterior de fotografías y los archivos de reservas en nube.
-- Las reservas siguen requiriendo configuración de Supabase antes de usarse en producción.

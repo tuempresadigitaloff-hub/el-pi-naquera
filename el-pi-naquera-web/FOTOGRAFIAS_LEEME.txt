@@ -1,7 +1,0 @@
-MEJORA FOTOGRÁFICA — EL PI DE NÀQUERA
-
-Se ha mejorado el tratamiento visual de las imágenes existentes mediante recorte, contraste, saturación y jerarquía. Se ha dado protagonismo a la fotografía del arroz en la portada. Se han eliminado de la galería las fotografías identificadas como imágenes de cartas, para dar prioridad a comida y ambiente.
-
-IMPORTANTE: las fotos disponibles proceden de miniaturas de la galería pública de carta.menu. No ha sido posible obtener ni verificar originales de alta resolución. Los filtros CSS no aumentan la resolución real. No se han inventado fotografías ni utilizado imágenes de otro restaurante. Las fotos siguen alojadas en el servidor externo y pueden estar sujetas a derechos de autor. Antes de usar comercialmente la web, solicitar permiso y originales al restaurante o a los titulares de las imágenes.
-
-El sistema de reservas en nube sigue requiriendo la configuración de Supabase documentada en CONFIGURACION_NUBE.md.
